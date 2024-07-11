@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rayen kanzari</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **game_info Hub**
+- 🔭 I’m currently working in an  **Internship**
 
-- 🌱 I’m currently learning **flask , reactjs**
+- 🌱 I’m currently learning **NextJs **
 
-- 📫 How to reach me **ac485561@gmail.com**
+- 📫 How to reach me **rayen.kanzariemail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

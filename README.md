@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayen Kanzari</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
-- 🔭 I’m currently working in **an internship**
+- 🔭 I’m currently **unemployed**
 
 - 🌱 I’m currently learning **Nextjs and firebase**
 
